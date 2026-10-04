@@ -1,6 +1,6 @@
 {
- "versionCode": 19,
- "versionName": "3.10",
- "apk": "Dieselflap-242-v3.10.apk",
- "notes": "Styr genom att luta telefonen, gas- och bromspedal, joystick som följer tummen."
+ "versionCode": 20,
+ "versionName": "3.11",
+ "apk": "Dieselflap-242-v3.11.apk",
+ "notes": "Testuppdatering: nu kommer nya versioner som en popup i appen."
 }
